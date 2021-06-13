@@ -1,6 +1,6 @@
 <h3> Hi There 👋, I am 🤗 Ahmed Sherif Abdelaty 😊 </h3>
 
-<b> Software Engineer </b>
+<i style="color:gray"> Software Engineer </i>
 
 A Software Engineer with industry experience building web services. Specializing in Full Stack development with Node.js, Reactjs and MongoDB.
 
