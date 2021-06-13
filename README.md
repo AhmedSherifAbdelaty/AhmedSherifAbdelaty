@@ -4,9 +4,10 @@
 
 A Software Engineer with industry experience building web services. Specializing in Backend Applications with Java , Spring And Mysql 
 
-<ul> Backend  : Java </ul>
-<ul> Databases: Mysql</ul>
-<ul> Frontend : Angular</ul>
-
+<ul>
+<li> Backend  : Java </li>
+<li> Databases: Mysql</li>
+<li> Frontend : Angular</li>
+</ul>
 
 
