@@ -7,7 +7,6 @@ A Software Engineer with industry experience building web services. Specializing
 <ul>
 <li> Backend  : Java </li>
 <li> Databases: Mysql</li>
-<li> Frontend : Angular</li>
 </ul>
 
 
