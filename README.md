@@ -12,6 +12,6 @@ A Software Engineer with industry experience building web services. Specializing
 
 
 <h4>You can also find me on</h4>
-<a href="https://www.linkedin.com/in/ahmed-sherif-b87333195/" style="color:gray;text-decoration: none;" >My LinkedIn  </a>
+<a href="https://www.linkedin.com/in/ahmed-sherif-b87333195/" style="color:gray;text-decoration: none;" > My Linked-in profile  </a>
 <br>
-<a href="https://codeforces.com/profile/AhmedSherif" style="color:gray;text-decoration: none;">My Codeforces</a>
+<a href="https://leetcode.com/AhmedSherifAbdelaty/" style="color:gray;text-decoration: none;">My Leet-code profile </a>
