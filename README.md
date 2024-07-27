@@ -7,7 +7,7 @@ A Software Engineer with industry experience building web services. Specializing
 <ul>
 <li> Programming language  : Java (Java SE, Java 8, Java 17) </li>
 <li> Backend-Framework     : Spring Boot, Spring Data, Spring Rest, Spring Core, Spring Security, Spring Reactive, Hibernate </li>
-<li> Databases: MySQL, Oracle</li
+<li> Databases: MySQL, Oracle</li>
 <li> Web Technologies: HTML, CSS, JavaScript </li>  
 <li> Tools: Apache SOLR, Jenkins, SonarQube, Git, Maven, Docker, Kubernetes, RabbitMQ </li>                               
 <li> Architecture: Microservices, MVC </li>                               
